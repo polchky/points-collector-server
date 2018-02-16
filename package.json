@@ -1,0 +1,19 @@
+{
+  "name": "points-collector-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polchky/points-collector-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polchky/points-collector-server/issues"
+  },
+  "homepage": "https://github.com/polchky/points-collector-server#readme"
+}
